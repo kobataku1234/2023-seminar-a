@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0947fc49f868b47498d1475e448ec283
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zombiePrefab: {instanceID: 0}
+  - godCamera: {instanceID: 0}
+  - button1_object: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
