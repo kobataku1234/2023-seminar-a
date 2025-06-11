@@ -12,3 +12,10 @@ https://youtube.com/playlist?list=PLDaXqMc4cgIWw56wEFy8tdPTj7_4gftH9
 ![展示2024](Image/festival2024.jpg)
 ### いちょう祭2025
 ![展示2025](Image/festival2025.jpg)
+
+<table>
+  <tr>
+    <td align="center"><img src="Image/festival2024.jpg" width="300px"><br><b>いちょう祭2024</b></td>
+    <td align="center"><img src="Image/festival2025.jpg" width="300px"><br><b>いちょう祭2025</b></td>
+  </tr>
+</table>
