@@ -9,6 +9,6 @@ https://youtube.com/playlist?list=PLDaXqMc4cgIWw56wEFy8tdPTj7_4gftH9
 ## 展示の様子
 大阪大学のいちょう祭にて展示を行い、多くの人に体験していただきました！
 ### いちょう祭2024
-![展示2024](Images/festival2024.jpg)
+![展示2024](Image/festival2024.jpg)
 ### いちょう祭2025
-![展示2025](Images/festival2025.jpg)
+![展示2025](Image/festival2025.jpg)
