@@ -4,12 +4,12 @@
 プレゼンで使用したスライドを参照
 
 ## 🎬 PV
-📺 Click or tap the image to watch on **YouTube**
+📺 Click or tap the image to watch on **YouTube**　　
 [![Watch the PV on YouTube](https://img.youtube.com/vi/Q-fOTafCJkE/0.jpg)](https://youtu.be/Q-fOTafCJkE)
 
 
 ## 🎮 プレイ映像
-📺 Click or tap the image to watch on **YouTube**
+📺 Click or tap the image to watch on **YouTube**　　
 [![Watch the Gameplay on YouTube](https://img.youtube.com/vi/UGHFZkoCXOs/0.jpg)](https://youtu.be/UGHFZkoCXOs)
 
 
